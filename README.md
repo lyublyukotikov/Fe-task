@@ -1,3 +1,10 @@
+Небольшая инструкция по запуску 
+4 файла-4 задачи 
+git clone https://github.com/lyublyukotikov/Fe-task.git
+cd Fe-task 
+npm install / yarn install 
+npm run dev / yarn dev 
+
 # TechAuditBI_FE_Test
 
 ## task_1
